@@ -1,14 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding:utf-8 -*-
-#############################################################
-# File: save_heatmap.py
-# Created Date: Friday January 15th 2021
-# Author: Chen Xuanhong
-# Email: chenxuanhongzju@outlook.com
-# Last Modified:  Wednesday, 19th January 2022 1:22:47 am
-# Modified By: Chen Xuanhong
-# Copyright (c) 2021 Shanghai Jiao Tong University
-#############################################################
+###################################
+# Author: Kudzai Richard Jaure, Marc Signe Aurele
+# Email: krjaure556@gmail.com
+###################################
 
 import os
 import shutil
