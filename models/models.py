@@ -1,3 +1,7 @@
+###################################
+# Author: Kudzai Richard Jaure
+# Email: krjaure556@gmail.com
+###################################
 import math
 import torch
 import torch.nn.functional as F
