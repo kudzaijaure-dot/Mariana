@@ -1,3 +1,6 @@
+######################################
+# Author: Kudzai Richard Jaure
+######################################
 import torch
 import torch.nn as nn
 import functools
