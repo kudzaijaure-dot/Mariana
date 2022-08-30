@@ -1,13 +1,14 @@
 ######################################
 # Author: Kudzai Richard Jaure
 ######################################
+
 import torch
-import torch.nn as nn
-import functools
 from torch.autograd import Variable
-import numpy as np
-from torchvision import transforms
 import torch.nn.functional as F
+import functools
+import torch.nn as nn
+from torchvision import transforms
+import numpy as np
 
 ###############################################################################
 # Functions
