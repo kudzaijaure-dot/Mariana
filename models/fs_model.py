@@ -1,3 +1,8 @@
+###################################
+# Author: Kudzai Richard Jaure
+# Email: krjaure556@gmail.com
+###################################
+
 import numpy as np
 import torch
 import torch.nn as nn
