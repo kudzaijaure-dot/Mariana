@@ -1,3 +1,7 @@
+###################################
+# Author: Kudzai Richard Jaure
+# Email: krjaure556@gmail.com
+###################################
 import os
 import torch
 import sys
