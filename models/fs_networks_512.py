@@ -1,11 +1,8 @@
-'''
-Author: Naiyuan liu
-Github: https://github.com/NNNNAI
-Date: 2021-11-23 16:55:48
-LastEditors: Naiyuan liu
-LastEditTime: 2021-11-24 16:58:06
-Description: 
-'''
+###################################
+# Author: Kudzai Richard Jaure
+# Email: krjaure556@gmail.com
+# This code was a combination of work done by Kudzai Jaure and open-source code from NVIDIA
+###################################
 """
 Copyright (C) 2019 NVIDIA Corporation.  All rights reserved.
 Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
