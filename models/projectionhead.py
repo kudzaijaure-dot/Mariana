@@ -1,3 +1,7 @@
+###################################
+# Author: Thabani Masukume
+# Email: masukumet@africau.edu
+###################################
 import torch.nn as nn
 
 class ProjectionHead(nn.Module):
