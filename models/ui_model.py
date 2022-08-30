@@ -1,3 +1,9 @@
+###################################
+# Author: Kudzai Richard Jaure
+# Email: krjaure556@gmail.com
+###################################
+
+
 import torch
 from torch.autograd import Variable
 from collections import OrderedDict
