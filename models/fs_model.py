@@ -1,6 +1,7 @@
 ###################################
 # Author: Kudzai Richard Jaure
 # Email: krjaure556@gmail.com
+# This code framework was adopted from the open source NVIDIA code found at https://github.com/NVlabs/stylegan, and edited to fit the purpose of this project
 ###################################
 
 import numpy as np
