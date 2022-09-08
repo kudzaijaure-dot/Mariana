@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- encoding: utf-8 -*-
-# SHA256:H8hGlhnVl/FeUQYM7hBaQyen1QKL+ZY/M4lTNCtrOeY root@731f6251ac3e
+# SHA256:mrrSKJQUcErSTDcAsjq0GFJ+uTg6Z2Zx0911gbO0ENE root@731f6251ac3e
 #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
 #!python 3.7
 
