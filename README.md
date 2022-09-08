@@ -10,9 +10,9 @@
 
 
 ## Attention
-***This project is for academic use as a capstone project and is not meant to be used in a commercial applications.***
+***This project is for academic use as a capstone project and is not meant to be used in a commercial applications except where authorized by K. R. Jaure***
 
-***This code is a contribution to the existing Open Source body of work.***
+***This code is not open to contribution until the license has been finalized and declared.***
 
 
 **`2022-05-06`**: 
