@@ -1,7 +1,9 @@
 #############################
 # Author: Kudzai R. Jaure
 # Email: krjaure556@gmail.com
-# Date: 22/05/2022
+# Date: 22/03/2022
+# Produced in alignment with documentation available for arcface face detection found at: https://arxiv.org/abs/1801.07698 
+# Edited to make use of custom util folder 
 ##############################
 
 import cog
