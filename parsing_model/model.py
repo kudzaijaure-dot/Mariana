@@ -226,7 +226,7 @@ class FeatureFusionModule(nn.Module):
                 nowd_params += list(module.parameters())
         return wd_params, nowd_params
 
-
+#Guided Implementation for detailed segmentation of features using https://arxiv.org/abs/1808.00897
 class BiSeNet(nn.Module):
     def __init__(self, n_classes, *args, **kwargs):
         super(BiSeNet, self).__init__()
