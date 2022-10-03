@@ -30,7 +30,7 @@ class TrainOptions:
         self.initialized = False
         
     def initialize(self):
-        self.parser.add_argument('--name', type=str, default='simswap', help='name of the experiment. It decides where to store samples and models')
+        self.parser.add_argument('--name', type=str, default='mariana', help='name of the experiment. It decides where to store samples and models')
         self.parser.add_argument('--gpu_ids', default='0')
         self.parser.add_argument('--checkpoints_dir', type=str, default='./checkpoints', help='models are saved here')
         self.parser.add_argument('--isTrain', type=str2bool, default='True')
