@@ -12,7 +12,7 @@ rnn = "/content/rnnoise/examples/rnnoise_demo"
 paths = Path(src).glob("**/*.wav")
  
 for filepath in paths:
-	target_filepath=Path(str(filepath).replace("original", "converted"))
+	target_filepath=Path(str(filepath).replace("p50", "p500"))
 	target_dir=os.path.dirname(target_filepath)
  
 	if (str(filepath) == str(target_filepath)):
