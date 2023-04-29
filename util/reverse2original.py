@@ -68,8 +68,20 @@ def postprocess(swapped_face, target, target_mask,smooth_mask):
     soft_face_mask = soft_face_mask_tensor.cpu().numpy()
     soft_face_mask = soft_face_mask[:, :, np.newaxis]
 
-    result =  swapped_face * soft_face_mask + target * (1 - soft_face_mask)
-    result = result[:,:,::-1]# .astype(np.uint8)
+#     # Convert face mask tensor to NumPy array
+#     soft_face_mask = soft_face_mask_tensor.cpu().numpy()
+#     soft_face_mask = soft_face_mask[:, :, np.newaxis]
+
+#     # Apply morphological operations
+#     kernel = np.ones((5, 5), np.uint8)
+#     soft_face_mask = cv2.erode(soft_face_mask, kernel, iterations=1)
+#     soft_face_mask = cv2.dilate(soft_face_mask, kernel, iterations=1)
+
+    # Blend swapped face with target using smoothed face mask
+    result = swapped_face * soft_face_mask + target * (1 - soft_face_mask)
+    result = result[:,:,::-1]
+    
+    return result
     return result
 
 def reverse2wholeimage(b_align_crop_tenor_list,swaped_imgs, mats, crop_size, oriimg, logoclass, save_path = '', \
