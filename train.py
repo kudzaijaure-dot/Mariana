@@ -55,7 +55,7 @@ class TrainOptions:
 
         # for discriminators         
         self.parser.add_argument('--lambda_feat', type=float, default=10.0, help='weight for feature matching loss')
-        self.parser.add_argument('--lambda_id', type=float, default=30.0, help='weight for id loss')
+        self.parser.add_argument('--lambda_id', type=float, default=40.0, help='weight for id loss')
         self.parser.add_argument('--lambda_rec', type=float, default=10.0, help='weight for reconstruction loss') 
 
         self.parser.add_argument("--Arc_path", type=str, default='arcface_model/arcface_checkpoint.tar', help="run ONNX model via TRT")
