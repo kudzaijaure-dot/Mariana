@@ -14,6 +14,7 @@
 **`2022-05-06`**: 
 Trained this model with a high quality dataset found here: [VGGFace2-HQ](https://drive.google.com/drive/folders/1ZHy7jrd6cGb2lUa4qYugXe41G_Ef9Ibw?usp=sharing). Attribution for the creation of this data set goes to [Kairui Feng](https://scholar.google.com.hk/citations?user=4N5hE8YAAAAJ&hl=zh-CN), a PhD student from Princeton University.
 
+Read my paper here: 
 
 ***We recommend training more than 400K iterations (batch size is 16), 600K~800K will be better, more iterations will not be recommended.***
 
