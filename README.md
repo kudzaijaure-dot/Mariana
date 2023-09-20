@@ -1,12 +1,16 @@
 # Mariana: Africas most efficient deepfake neural network for creating amazing videos and images
 ##
 
-**Our method can realize **arbitrary face swapping** on images and videos with **one single trained model**.**
+**My method can perform **decent face swapping** on images and videos with **one single trained model, inferenced from a single sample**.**
+
+This project was built and completed as a part of my Capstone thesis for my bachelors degree. It is free for use and has 2 components tested and ready for deployment. The inferencing engine however, does not work in real-time and thus cannot be used on apps and platforms yet. One 2 minute video requires about 15 minutes of GPU processing to make the result.
+
+How it works: My system splits the video into frames that it then executes the identity swapping function on, individually. 
 
 # Training and test code are now available!
-- Train: [ <a href="https://colab.research.google.com/github/kudzaijaure-dot/Mariana/blob/main/train.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/train.ipynb) 
+- Train: [ <a href="https://colab.research.google.com/github/kudzaijaure-dot/Mariana/blob/main/train.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/github/kudzaijaure-dot/Mariana/blob/main/train.ipynb) 
 
-- Inference with pretrained model:   [ <a href="https://colab.research.google.com/github/kudzaijaure-dot/Mariana/blob/main/Mariana%20colab.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/github/neuralchen/SimSwap/blob/main/train.ipynb)
+- Inference with pretrained model:   [ <a href="https://colab.research.google.com/github/kudzaijaure-dot/Mariana/blob/main/Mariana%20colab.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/github/kudzaijaure-dot/Mariana/blob/main/train.ipynb)
 
 
 
