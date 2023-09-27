@@ -34,10 +34,11 @@ The system failed to maintain the integrity of the mask with very exxagerated fa
 
 ![511469](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/c5db9cb8-f795-497d-afeb-b9f50ad13c38)
 
-![pac](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/ba4e2569-b8ab-4f63-b0a9-a19d36a0ca4d)
+![pac](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/f46e7e56-228d-437b-8f83-6545b3e905fd)
 
 ## The target face:
-![kenn](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/97f9442e-f615-4f37-b995-d35b77066bd0)
+![kenn](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/98d54066-c256-4427-910a-50059715f7c6)
+
 
 ## Results 😁
 
