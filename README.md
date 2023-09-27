@@ -32,7 +32,7 @@ The system failed to maintain the integrity of the mask with very exxagerated fa
 
 ## The faces used as the source identites:
 
-![511469](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/c5db9cb8-f795-497d-afeb-b9f50ad13c38)
+![511469](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/19055f6f-2b5b-4757-bf1d-bb116bfb4d92)
 
 ![pac](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/f46e7e56-228d-437b-8f83-6545b3e905fd)
 
@@ -44,39 +44,44 @@ The system failed to maintain the integrity of the mask with very exxagerated fa
 
 ### 1:
 
-![Screenshot_20230922-091513](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/c2168fad-8e1b-40f0-a518-4b8cfe5bfb64)
+
+![Screenshot_20230922-091513](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/ff9320bb-7675-4c00-b0e1-47afeec63cc0)
 
 
-https://github.com/kudzaijaure-dot/Mariana/assets/55686042/2edae73d-ddb8-4460-8af5-b9683dc64ea9
+https://github.com/kudzaijaure-dot/Mariana/assets/55686042/e9d3650d-df54-4f97-b36d-226aac9226fc
+
 
 ### 2:
+![Screenshot (6)](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/da8c4b47-6f10-442e-87c6-a170b704f032)
 
-![Screenshot_20230922-091438](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/fb402ab8-d672-427d-86fe-6408c7ec4a14)
 
-https://github.com/kudzaijaure-dot/Mariana/assets/55686042/b9a38d56-1234-48cd-850b-200cb0a125a0
+
+
+https://github.com/kudzaijaure-dot/Mariana/assets/55686042/3e4d1c72-a583-43cb-99d4-72920acac6fe
+
+
+
 
 # Experiment 2:
 
 The software did exceptionally well at extracting the identity of the source images. It did not however, manage to maintain performance regardless of the source image. As seen below, it performs at SOTA when the general facial features such as jawline, nose, and facial structure are similar, in essence performing well within domains. When attempting to use an identity from a source image with different features, it does not manage to perfectly implant the identity information and looks more like a blend between the two images. 
 ## Target Identity ➡️
 
+https://github.com/kudzaijaure-dot/Mariana/assets/55686042/21efb54e-a3ed-4ed1-add1-9e06458c759e
 
-
-https://github.com/kudzaijaure-dot/Mariana/assets/55686042/0f9ecfbf-80b5-4e1d-961e-34ae1d0a9e32
 
 
 ## Results 😸
 
 ### 1:
-![tom](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/29043871-c641-4f7f-a7cb-31850635d6f7)
 
-https://github.com/kudzaijaure-dot/Mariana/assets/55686042/5ac30dbf-33ed-435c-8780-8870477209ab
+https://github.com/kudzaijaure-dot/Mariana/assets/55686042/f091eb46-1859-4d6a-9fb1-afa9f9db4503
 
 ### 2:
-![Iron_man](https://github.com/kudzaijaure-dot/Mariana/assets/55686042/446031c2-ade9-4bf3-895d-031e35cae1cd)
+
+https://github.com/kudzaijaure-dot/Mariana/assets/55686042/27b8a933-c06d-4133-b1f6-ecc484119444
 
 
-https://github.com/kudzaijaure-dot/Mariana/assets/55686042/b0e07210-3e9c-4319-8793-561fa9070072
 
 
 # Future Improvements:
